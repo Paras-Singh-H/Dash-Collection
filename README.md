@@ -1,4 +1,4 @@
-# dash_collections
+## Dashatar Collection Flutter Application
 
 A new Flutter project.
 
